@@ -1,1 +1,1 @@
-echoo "Heyyyy Brother!!!    This is update 1: V2"
+echo "Heyyyy Brother!!!    This is update 1: V2"
